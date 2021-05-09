@@ -1,4 +1,22 @@
-# TableauChallenge-UCB-Y5
+# TableauChallenge-UCB-Y5'
+
+
+#Analysis Summary
+
+The Tableau Story delves further into each visualization and describes the thought in annotations. Here are the key findings:
+
+1) Pandemic Effect: decrease in ridership from 2019 to 2020
+2) Time of day: busy times coincide with office hours also weekends have different busy times
+3) Gender Distribution: Men seem to ride more than women, but women ridership has increased over time
+4) Seasons: Less ridership overall in rainy/winter times
+5) Age: younger people ride more often and longer distances  
+
+
+
+
+
+
+
 Background
 Citi-Bikes
 
